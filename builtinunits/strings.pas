@@ -4,7 +4,7 @@ uses stringscorejava;
 INTERFACE
 
 {
-    Concatenase two strings. The source argument is concatenated to the destinations argument
+    Concatenate two strings. The source argument is concatenated to the destinations argument
     which is then returned
 }
 function strcat(var destination, source: PChar): PChar;
